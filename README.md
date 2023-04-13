@@ -1,2 +1,4 @@
 # odin-landing
-Project: Landing Page
+The Odin Project: Landing Page
+
+https://jsalejandria.github.io/odin-landing/
